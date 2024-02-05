@@ -6,7 +6,7 @@ patterns about the best-selling books in different genres and categories using t
 * [Requirements]()
 * [Tools Used]()
 * [Skills Demonstrated]()
-* [Click to Report View]()
+* [Click to Report View](https://github.com/kainat1996/amazon-top-selling-book-EDA/blob/master/R%20markdown%20report.pdf)
 * [Findings]()
 
 ### Requirements
@@ -41,8 +41,8 @@ Descriptive Statistics: Calculate summary statistics (mean, median, etc.) for bo
 Create plots (histograms, bar charts, scatter plots) to explore distribution patterns, trends, and outliers.
 
 **Time Series Analysis:**
-*Time Trends: Analyze how book sales changed over the years. Use line plots or time series decomposition.
-*Seasonality: Check for seasonal patterns in sales data.
+* Time Trends: Analyze how book sales changed over the years. Use line plots or time series decomposition.
+* Seasonality: Check for seasonal patterns in sales data.
 
 **Author and Genre Analysis:**
 * Author Popularity: Identified top authors based on book sales. Grouped books by author and analyzed their impact.
@@ -58,7 +58,7 @@ Investigate relationships between variables (e.g., sales and ratings).
 * Clear Explanations: Explained findings in a concise and understandable manner.
 Visual Communication: Used effective visualizations to convey insights.
 
-# [Click to view Report]()
+# [Click to view Report](https://github.com/kainat1996/amazon-top-selling-book-EDA/blob/master/R%20markdown%20report.pdf)
 
 ### Findings based on the report
 Findings:
