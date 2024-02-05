@@ -27,9 +27,8 @@ Here are some question explored for the project on Amazon’s top-selling books 
 **Does Price effect the sale of the Books?**
 
 ### Skills Demonstrated
-Certainly! Creating an Exploratory Data Analysis (EDA) report about Amazon’s top-selling books using R involves several key skills. Here are some essential steps and skills you can utilize:
 
-Data Collection and Cleaning:
+**Data Collection and Cleaning:**
 Gathered data Amazon’s best-selling books for each year from 2009 to 2019 from Kaggle.com. 
 
 **Data Cleaning:** 
@@ -49,8 +48,8 @@ Create plots (histograms, bar charts, scatter plots) to explore distribution pat
 * Author Popularity: Identified top authors based on book sales. Grouped books by author and analyzed their impact.
 * Genre Distribution: Explored which genres (fiction, non-fiction, mystery, etc.) were most popular.\
   
-**Correlation and Regression:**
-* Correlation: Investigate relationships between variables (e.g., sales and ratings).
+**Correlation:**
+Investigate relationships between variables (e.g., sales and ratings).
 
 **Report Generation:**
 * R Markdown: Write an EDA report using R Markdown. Include code chunks, visualizations, and explanations.
@@ -63,29 +62,20 @@ Visual Communication: Used effective visualizations to convey insights.
 
 ### Findings based on the report
 Findings:
-The top 20 authors with higher user ratings had more than 4.5 stars in User Ratings.
-
-Between 2009 and 2019, Fiction books had more reviews than Non-Fiction books.
-
-There are six authors with highest ratings of 4.8 or higher and 12000 reviews or higher.
-
-The were 28 books with a rating of 4.9 or higher written by 19 different authors.
-
-Specifically there were a total of 345 Non Fiction books making up 54.16% of the list while there were 292
-
-Fiction books accounting for approximately 45.58%.
-
-Interestingly the average price of the Non Fiction books were higher than the fictional books.
-
-Exploring authors based on their frequency on the best sellers list between 2009 and 2019 revealed that Jeff
+* The top 20 authors with higher user ratings had more than 4.5 stars in User Ratings.
+* Between 2009 and 2019, Fiction books had more reviews than Non-Fiction books.
+* There are six authors with highest ratings of 4.8 or higher and 12000 reviews or higher.
+* The were 28 books with a rating of 4.9 or higher written by 19 different authors.
+* Specifically there were a total of 345 Non Fiction books making up 54.16% of the list while there were 292
+ Fiction books accounting for approximately 45.58%.
+* Interestingly the average price of the Non Fiction books were higher than the fictional books.
+* Exploring authors based on their frequency on the best sellers list between 2009 and 2019 revealed that Jeff
 Kinney, Suzanne Collins, Rick Riordan, and emerged as performers among all genres. Each author had their
 works listed as sellers an impressive number of times; Rick Riordan appeared on the list a total of 18 times
 Suzanne Collins came in at second place with her works appearing on it about16 times; finally Jeff Kinneys
 contributions made it onto this highly acclaimed list around15 times.
-
-The price of books went down in 2014 went up in 2018 and then went down again in 2019.
-
-Among the Top best selling authors with numerous reviews”Bill Martin Jr.” “Dav Pilkey”, “J.K. Rowling”,
+* The price of books went down in 2014 went up in 2018 and then went down again in 2019.
+* Among the Top best selling authors with numerous reviews”Bill Martin Jr.” “Dav Pilkey”, “J.K. Rowling”,
 “Sarah Young”, “Dr. Seuss”, “Eric Carle” stood out. Dr. Seuss received the number of reviews, with
 approximately 21834, which significantly surpassed the reviews of other authors.
 
